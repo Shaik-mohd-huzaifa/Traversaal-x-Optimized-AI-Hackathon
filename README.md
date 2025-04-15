@@ -14,7 +14,30 @@ This project presents an **agentic hiring assistant** that uses AI to assess can
 ---
 
 
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/Shaik-mohd-huzaifa/Traversaal-x-Optimized-AI-Hackathon.git
+cd Traversaal-x-Optimized-AI-Hackathon
+# (Optional) create and activate virtual environment
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
 Click here to testout : [Live Demo](https://huggingface.co/spaces/Shaikmohdhuz/Hiring_agent)
+
+## Run the App
+```
+python app.py
+```
+This will launch a Gradio UI at http://localhost:7860.
+
+
+---
 
 
 ### Agentic Architecture
@@ -24,8 +47,4 @@ Click here to testout : [Live Demo](https://huggingface.co/spaces/Shaikmohdhuz/H
 
 ### Video Demonstration
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[Link to the Video](https://youtu.be/e4vXOu2gqH8)
