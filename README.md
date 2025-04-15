@@ -20,6 +20,7 @@ This project presents an **agentic hiring assistant** that uses AI to assess can
 # Clone the repo
 git clone https://github.com/Shaik-mohd-huzaifa/Traversaal-x-Optimized-AI-Hackathon.git
 cd Traversaal-x-Optimized-AI-Hackathon
+
 # (Optional) create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
